@@ -6,10 +6,17 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/nathacia23
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/nathacia
+    - icon: envelope
+      text: Email
+      href: mailto:nathaciah23@gmail.com
 ---
 
-Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?
+I'm Nathacia, a recent M.S. Business Analytics graduate from UC Irvine's Paul Merage School of Business. I'm based in Irvine, CA, and looking at roles in Orange County and San Diego. I also have a B.S. in Finance and Business Analytics from the University of San Francisco.
+
+I like turning messy data into clear recommendations. My background spans internal auditing, financial analysis, and a few analytics capstones, and I work mostly in Python, SQL, R, and Tableau.
+
+I'm looking for data analyst and business analyst roles. The projects on this site show how I work, so feel free to look around and get in touch.
