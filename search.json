@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
@@ -19,5 +12,12 @@
     "title": "Welcome!",
     "section": "Next Steps",
     "text": "Next Steps\n\nEdit about.qmd with your info\nCreate a project post in posts/\nPush to main and your site will auto-deploy"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m Nathacia, a recent M.S. Business Analytics graduate from UC Irvine’s Paul Merage School of Business. I’m based in Irvine, CA, and looking at roles in Orange County and San Diego. I also have a B.S. in Finance and Business Analytics from the University of San Francisco.\nI like turning messy data into clear recommendations. My background spans internal auditing, financial analysis, and a few analytics capstones, and I work mostly in Python, SQL, R, and Tableau.\nI’m looking for data analyst and business analyst roles. The projects on this site show how I work, so feel free to look around and get in touch."
   }
 ]
