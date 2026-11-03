@@ -2,16 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome!",
+    "title": "Nathacia Hartato",
     "section": "",
-    "text": "This is your portfolio site. Start by editing this page and about.qmd to make it your own."
+    "text": "Data and business analytics, with a finance background. I like turning messy data into clear recommendations, and this site collects the projects that show how I work.\nBased in Irvine, CA, and looking at data analyst and business analyst roles in Orange County and San Diego."
   },
   {
-    "objectID": "index.html#next-steps",
-    "href": "index.html#next-steps",
-    "title": "Welcome!",
-    "section": "Next Steps",
-    "text": "Next Steps\n\nEdit about.qmd with your info\nCreate a project post in posts/\nPush to main and your site will auto-deploy"
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Nathacia Hartato",
+    "section": "Projects",
+    "text": "Projects\n\nSearch Relevance Engine\nA from-scratch TF-IDF search engine in Python, evaluated on the Home Depot Product Search Relevance dataset from Kaggle.\n\n\nHybrid Search and RAG\nCompares from-scratch TF-IDF with OpenAI embeddings on real product data, then extends it into a full RAG pipeline with grounded LLM-generated answers.\n\n\nStroke Prediction with Decision Trees\nA decision tree classifier in R that predicts stroke likelihood, with train/test evaluation, cross-validation-guided pruning, and full precision, recall, and F1 metrics.\nMore work is on my GitHub."
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Nathacia Hartato",
+    "section": "Get in touch",
+    "text": "Get in touch\nLinkedIn | GitHub | Email"
   },
   {
     "objectID": "about.html",
