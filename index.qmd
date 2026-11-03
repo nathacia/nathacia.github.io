@@ -1,11 +1,24 @@
 ---
-title: "Welcome!"
+title: "Nathacia Hartato"
 ---
 
-This is your portfolio site. Start by editing this page and `about.qmd` to make it your own.
+Data and business analytics, with a finance background. I like turning messy data into clear recommendations, and this site collects the projects that show how I work.
 
-## Next Steps
+Based in Irvine, CA, and looking at data analyst and business analyst roles in Orange County and San Diego.
 
-- Edit `about.qmd` with your info
-- Create a project post in `posts/`
-- Push to `main` and your site will auto-deploy
+## Projects
+
+### [Search Relevance Engine](https://github.com/nathacia/search-relevance-engine)
+A from-scratch TF-IDF search engine in Python, evaluated on the Home Depot Product Search Relevance dataset from Kaggle.
+
+### [Hybrid Search and RAG](https://github.com/nathacia/hybrid-search-rag)
+Compares from-scratch TF-IDF with OpenAI embeddings on real product data, then extends it into a full RAG pipeline with grounded LLM-generated answers.
+
+### [Stroke Prediction with Decision Trees](https://github.com/nathacia/decisiontree-stroke)
+A decision tree classifier in R that predicts stroke likelihood, with train/test evaluation, cross-validation-guided pruning, and full precision, recall, and F1 metrics.
+
+More work is on my [GitHub](https://github.com/nathacia).
+
+## Get in touch
+
+[LinkedIn](https://linkedin.com/in/nathacia23) | [GitHub](https://github.com/nathacia) | [Email](mailto:nathaciah23@gmail.com)
